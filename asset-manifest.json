@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/covid19-campaign/static/css/main.b56deeec.chunk.css",
+    "main.js": "/covid19-campaign/static/js/main.bc813487.chunk.js",
+    "main.js.map": "/covid19-campaign/static/js/main.bc813487.chunk.js.map",
+    "runtime-main.js": "/covid19-campaign/static/js/runtime-main.26735c62.js",
+    "runtime-main.js.map": "/covid19-campaign/static/js/runtime-main.26735c62.js.map",
+    "static/js/2.be2ab06f.chunk.js": "/covid19-campaign/static/js/2.be2ab06f.chunk.js",
+    "static/js/2.be2ab06f.chunk.js.map": "/covid19-campaign/static/js/2.be2ab06f.chunk.js.map",
+    "index.html": "/covid19-campaign/index.html",
+    "static/css/main.b56deeec.chunk.css.map": "/covid19-campaign/static/css/main.b56deeec.chunk.css.map",
+    "static/js/2.be2ab06f.chunk.js.LICENSE.txt": "/covid19-campaign/static/js/2.be2ab06f.chunk.js.LICENSE.txt",
+    "static/media/image.9e5d4fc7.png": "/covid19-campaign/static/media/image.9e5d4fc7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26735c62.js",
+    "static/js/2.be2ab06f.chunk.js",
+    "static/css/main.b56deeec.chunk.css",
+    "static/js/main.bc813487.chunk.js"
+  ]
+}
